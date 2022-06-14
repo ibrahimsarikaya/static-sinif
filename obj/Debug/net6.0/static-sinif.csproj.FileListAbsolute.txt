@@ -1,0 +1,15 @@
+C:\Derslerim\static-sinif\bin\Debug\net6.0\static-sinif.exe
+C:\Derslerim\static-sinif\bin\Debug\net6.0\static-sinif.deps.json
+C:\Derslerim\static-sinif\bin\Debug\net6.0\static-sinif.runtimeconfig.json
+C:\Derslerim\static-sinif\bin\Debug\net6.0\static-sinif.dll
+C:\Derslerim\static-sinif\bin\Debug\net6.0\static-sinif.pdb
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.csproj.AssemblyReference.cache
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.AssemblyInfoInputs.cache
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.AssemblyInfo.cs
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.csproj.CoreCompileInputs.cache
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.dll
+C:\Derslerim\static-sinif\obj\Debug\net6.0\refint\static-sinif.dll
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.pdb
+C:\Derslerim\static-sinif\obj\Debug\net6.0\static-sinif.genruntimeconfig.cache
+C:\Derslerim\static-sinif\obj\Debug\net6.0\ref\static-sinif.dll
